@@ -11,14 +11,6 @@ A comprehensive GUI-based student registration system built with Python Tkinter 
 - **Data Persistence**: Store student data in Excel format (.xlsx)
 - **User-friendly Interface**: Clean and intuitive GUI design
 
-## Screenshots
-
-The application features a modern interface with:
-- Student details form with all essential fields
-- Parent information section
-- Profile picture upload functionality
-- Search and update capabilities
-
 ## Requirements
 
 ### System Requirements
