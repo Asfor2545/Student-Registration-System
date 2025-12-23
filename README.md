@@ -226,16 +226,6 @@ The application includes comprehensive error handling for:
 - No built-in backup mechanism
 - Search only works with exact registration numbers
 
-## Future Enhancements
-
-Potential improvements for future versions:
-- Multi-user support with database integration
-- Advanced search capabilities (search by name, class, etc.)
-- Data export/import functionality
-- Automatic backup system
-- Print functionality for student records
-- Bulk operations support
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
